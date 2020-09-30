@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>importproductstheircategoriescsv</name>
+	<displayName><![CDATA[Import products and their categories]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Whit this modulo you can import products from csv to your shop with one click]]></description>
+	<author><![CDATA[jamartin]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
